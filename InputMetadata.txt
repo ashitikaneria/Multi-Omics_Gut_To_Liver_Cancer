@@ -1,0 +1,92 @@
+Sample	Type
+filt_SRR21460784	Healthy control
+filt_SRR21460795	Healthy control
+filt_SRR21460806	Healthy control
+filt_SRR21460816	Healthy control
+filt_SRR21460817	Healthy control
+filt_SRR21460818	Healthy control
+filt_SRR21460819	Healthy control
+filt_SRR21460820	Healthy control
+filt_SRR21460821	Healthy control
+filt_SRR21460822	Healthy control
+filt_SRR21460823	Healthy control
+filt_SRR21460824	Healthy control
+filt_SRR21460825	Healthy control
+filt_SRR21460826	Healthy control
+filt_SRR21460827	Healthy control
+filt_SRR21460828	Healthy control
+filt_SRR21460829	Healthy control
+filt_SRR21460830	Healthy control
+filt_SRR21460831	Healthy control
+filt_SRR21460832	Healthy control
+filt_SRR21460833	Advanced liver disease
+filt_SRR21460834	Advanced liver disease
+filt_SRR21460835	Healthy control
+filt_SRR21460836	Advanced liver disease
+filt_SRR21460837	Advanced liver disease
+filt_SRR21460838	Advanced liver disease
+filt_SRR21460839	Advanced liver disease
+filt_SRR21460840	Advanced liver disease
+filt_SRR21460841	Advanced liver disease
+filt_SRR21460842	Advanced liver disease
+filt_SRR21460843	Advanced liver disease
+filt_SRR21460844	Advanced liver disease
+filt_SRR21460845	Advanced liver disease
+filt_SRR21460846	Healthy control
+filt_SRR21460847	Advanced liver disease
+filt_SRR21460848	Advanced liver disease
+filt_SRR21460849	Advanced liver disease
+filt_SRR21460850	Advanced liver disease
+filt_SRR21460851	Advanced liver disease
+filt_SRR21460852	Advanced liver disease
+filt_SRR21460853	Advanced liver disease
+filt_SRR21460854	Advanced liver disease
+filt_SRR21460855	Advanced liver disease
+filt_SRR21460856	Advanced liver disease
+filt_SRR21460857	Healthy control
+filt_SRR21460858	Advanced liver disease
+filt_SRR21460859	Advanced liver disease
+filt_SRR21460860	Advanced liver disease
+filt_SRR21460861	Advanced liver disease
+filt_SRR21460862	Advanced liver disease
+filt_SRR21460863	Advanced liver disease
+filt_SRR21460864	Advanced liver disease
+filt_SRR21460865	Advanced liver disease
+filt_SRR21460866	Advanced liver disease
+filt_SRR21460867	Advanced liver disease
+filt_SRR21460868	Healthy control
+filt_SRR21460869	Advanced liver disease
+filt_SRR21460870	Advanced liver disease
+filt_SRR21460886	Healthy control
+filt_SRR21460891	Healthy control
+filt_SRR21460892	Healthy control
+filt_SRR21460893	Healthy control
+filt_SRR21460894	Healthy control
+filt_SRR21460895	Healthy control
+filt_SRR21460896	Healthy control
+filt_SRR21460897	Healthy control
+filt_SRR21460898	Healthy control
+filt_SRR21460899	Healthy control
+filt_SRR21460900	Healthy control
+filt_SRR21460901	Healthy control
+filt_SRR21460902	Healthy control
+filt_SRR21460903	Healthy control
+filt_SRR21460904	Healthy control
+filt_SRR21460905	Healthy control
+filt_SRR21460906	Healthy control
+filt_SRR21460907	Healthy control
+filt_SRR21460908	Healthy control
+filt_SRR21460909	Healthy control
+filt_SRR21460910	Healthy control
+filt_SRR21460911	Healthy control
+filt_SRR21460912	Healthy control
+filt_SRR21460913	Healthy control
+filt_SRR21460914	Healthy control
+filt_SRR21460915	Healthy control
+filt_SRR21460916	Healthy control
+filt_SRR21460921	Healthy control
+filt_SRR21460932	Healthy control
+filt_SRR21460943	Healthy control
+filt_SRR21460944	Healthy control
+filt_SRR21460945	Healthy control
+
